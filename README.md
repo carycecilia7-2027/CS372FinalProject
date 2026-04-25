@@ -15,13 +15,9 @@ This project implements a CNN, ResNet-18, EfficientNet-B0, and a pre-trained ViT
 2. Technical Walkthrough Video Link:
 
 **Evaluation**
-CNN
-ResNet-18
-EfficientNet-B0
-ViT-B16
-EfficientNet-B0 using AdamW
-EfficientNet-B0 using SGD
-Confusion Matrices for CNN, ResNet-18, EfficientNet-B0, and ViT-B16
+table of data
+Confusion matrices
+Training and validation plots
 
 **Individual Contributions**
 This project was completed alone and without additional group members.
