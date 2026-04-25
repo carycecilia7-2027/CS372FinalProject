@@ -1,3 +1,4 @@
+<img width="793" height="202" alt="Screenshot 2026-04-25 at 6 04 34 PM" src="https://github.com/user-attachments/assets/1fda1039-6f9f-4c57-b4bc-00a2d9f92816" />
 **Project Title:** A Comparison of Computer Vision Models on Image Classification of Melanoma Skin Cancer
 
 **Description:** This project implements a CNN, ResNet-18, EfficientNet-B0, and a pre-trained ViT-16 to predict a given image as malignant or benign, and tracks the following metrics: training accuracy, validation accuracy, and time per epoch. This project replicates the architecture of models and displays similar results from this research paper: https://pmc.ncbi.nlm.nih.gov/articles/PMC11607306/.
