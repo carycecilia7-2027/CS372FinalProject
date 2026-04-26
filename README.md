@@ -8,7 +8,7 @@ This project implements a CNN, ResNet-18, EfficientNet-B0, and a pre-trained ViT
 
 **Quick Start**
 1. Download file “CeciliaCary_MLProject_Final.ipynb”
-2. Run code cell that implements kaggle and downloads the dataset "hasnainjaved/melanoma-skin-cancer-dataset-of-10000-images"
+2. Run code cell that implements kaggle and downloads the dataset "hasnainjaved/melanoma-skin-cancer-dataset-of-10000-images". This project uses a kaggle dataset that can be found here: https://www.kaggle.com/datasets/hasnainjaved/melanoma-skin-cancer-dataset-of-10000-images
 3. Run subsequent code blocks
 
 **Video Links** 
