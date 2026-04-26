@@ -18,7 +18,18 @@ This project implements a CNN, ResNet-18, EfficientNet-B0, and a pre-trained ViT
 
 **Evaluation**
 1. Training and Validation Plots
-   
+CNN
+<img width="1219" height="388" alt="Screenshot 2026-04-26 at 1 33 46 PM" src="https://github.com/user-attachments/assets/200866fe-eec7-4c61-8502-35fc7d6bef23" />
+
+ResNet-18
+<img width="1194" height="389" alt="Screenshot 2026-04-26 at 1 34 17 PM" src="https://github.com/user-attachments/assets/27ea59be-0560-412f-9e15-ecd32de3d376" />
+
+EfficientNet-B0
+<img width="1198" height="386" alt="Screenshot 2026-04-26 at 1 34 40 PM" src="https://github.com/user-attachments/assets/a971e60e-c050-41d5-8b5a-d462b5bbfbb4" />
+
+ViT-B16
+<img width="1186" height="383" alt="Screenshot 2026-04-26 at 1 35 09 PM" src="https://github.com/user-attachments/assets/923d7688-e452-4967-afdf-eb87141ed31d" />
+
 2. Evaluation on Test Data 
 Summary Table
 <img width="793" height="202" alt="Screenshot 2026-04-25 at 6 04 34 PM" src="https://github.com/user-attachments/assets/1fda1039-6f9f-4c57-b4bc-00a2d9f92816" />
