@@ -1,4 +1,3 @@
-
 **Project Title:** A Comparison of Computer Vision Models on Image Classification of Melanoma Skin Cancer
 
 **Description:** This project implements a CNN, ResNet-18, EfficientNet-B0, and a pre-trained ViT-16 to predict a given image as malignant or benign, and tracks the following metrics: training accuracy, validation accuracy, and time per epoch. This project replicates the architecture of models and displays similar results from this research paper: https://pmc.ncbi.nlm.nih.gov/articles/PMC11607306/.
@@ -39,7 +38,7 @@ ViT-B16
 Summary Table
 <img width="793" height="202" alt="Screenshot 2026-04-25 at 6 04 34 PM" src="https://github.com/user-attachments/assets/1fda1039-6f9f-4c57-b4bc-00a2d9f92816" />
 Confusion Matrices
-<img width="630" height="655" alt="Screenshot 2026-04-25 at 6 07 22 PM" src="https://github.com/user-attachments/assets/5b86385a-841e-4982-82b3-727710ee46e4" />
+<img width="642" height="647" alt="Screenshot 2026-04-26 at 3 06 06 PM" src="https://github.com/user-attachments/assets/e8c1bc63-a385-4665-89f6-011eb065d53a" />
 
 Error Analysis: Problematic Test Data That Were Mislabeled By Model
 <img width="633" height="510" alt="Screenshot 2026-04-25 at 6 07 42 PM" src="https://github.com/user-attachments/assets/35627bdd-9b29-42c9-ada3-3372e9d474ee" />
