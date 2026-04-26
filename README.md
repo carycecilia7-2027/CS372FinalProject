@@ -14,10 +14,12 @@ This project implements a CNN, ResNet-18, EfficientNet-B0, and a pre-trained ViT
 **Video Links** 
 1. Project Demo Link (Drive):
    https://drive.google.com/drive/folders/19FuVZkoVb3yJmvrR4nahyRd1awfaaLC9
-   Project Demo Link (Youtube):
-   https://youtu.be/Vr4NccpSAvs
+   
+   Project Demo Link (Youtube): https://youtu.be/Vr4NccpSAvs
+   
 2. Technical Walkthrough Video Link (Drive): https://drive.google.com/drive/folders/19FuVZkoVb3yJmvrR4nahyRd1awfaaLC9
-   Technical Walkthrough Video Link (Youtibe):
+   
+   Technical Walkthrough Video Link (Youtibe): https://youtu.be/2Mq8pz8kRts
 
 **Evaluation**
 1. Training and Validation Plots
