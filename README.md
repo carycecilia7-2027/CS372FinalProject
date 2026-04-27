@@ -6,7 +6,7 @@
 This project implements a CNN, ResNet-18, EfficientNet-B0, and a pre-trained ViT-16. This project replicates the described architectures for the CNN, ResNet-18, and EfficientNet-B0 described in the  research paper “Classification of Melanoma Skin Cancer Based on Image Data Set Using Different Neural Networks.” The ViT model used is the pre-trained ViT-B16 model. This project resizes the input images to 224x224x3, creates a train-test-split and validation set, and passes these resized images to a modified CNN, ResNet-18, EfficientNet-B0, and pre-trained ViT. Following training, training accuracy versus validation accuracy of plotted for each model. EfficientNet-B0 exhibited the best performance on the validation set, and was subsequently evaluated on test data and its performance was compared using SDG, Adam, and AdamW. Using the EfficientNet-B0, we achieve a validation accuracy of 92%.
 
 **Quick Start**
-1. Download file “CeciliaCary_MLProject_Final.ipynb”
+1. Download file “CeciliaCary_MLProject_Final.ipynb” and open in CoLab.
 2. Run code cell that implements kaggle and downloads the dataset "hasnainjaved/melanoma-skin-cancer-dataset-of-10000-images". This project uses a kaggle dataset that can be found here: https://www.kaggle.com/datasets/hasnainjaved/melanoma-skin-cancer-dataset-of-10000-images
 3. Run subsequent code blocks
 
