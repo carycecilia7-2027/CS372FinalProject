@@ -9,6 +9,7 @@ This project implements a CNN, ResNet-18, EfficientNet-B0, and a pre-trained ViT
 1. Download file “CeciliaCary_MLProject_Final.ipynb” and open in CoLab.
 2. Run code cell that implements kaggle and downloads the dataset "hasnainjaved/melanoma-skin-cancer-dataset-of-10000-images". This project uses a kaggle dataset that can be found here: https://www.kaggle.com/datasets/hasnainjaved/melanoma-skin-cancer-dataset-of-10000-images
 3. Run subsequent code blocks
+4. **Important Note**: The file "CeciliaCary_MLFinalProject" is the same code as “CeciliaCary_MLProject_Final.ipynb", but was missing an AI citation. "CeciliaCary_MLFinalProject" is the full run-through of my ipynb file, but is missing this citation.
 
 **Video Links** 
 1. Project Demo Link (Drive):
